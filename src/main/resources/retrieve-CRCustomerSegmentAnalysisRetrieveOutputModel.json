@@ -1,0 +1,27 @@
+{
+  "customerSegmentAnalysisRetrieveActionResponse" : "customerSegmentAnalysisRetrieveActionResponse",
+  "customerSegmentAnalysisRetrieveActionTaskRecord" : {},
+  "customerSegmentAnalysisInstanceRecord" : {
+    "customerSegmentPerformanceGoals" : "customerSegmentPerformanceGoals",
+    "customerSegmentTypeDefinition" : "customerSegmentTypeDefinition",
+    "customerSegmentType" : "customerSegmentType",
+    "customerSegmentAnalysisReport" : {
+      "customerSegmentAnalysisResult" : "customerSegmentAnalysisResult",
+      "customerSegmentAnalysisReportingDate" : "09-22-2018",
+      "customerSegmentAnalysisType" : "customerSegmentAnalysisType",
+      "documentDirectoryEntryInstanceReference" : "706174"
+    },
+    "customerSegmentAnalysisSchedule" : "customerSegmentAnalysisSchedule"
+  },
+  "customerSegmentAnalysisRetrieveActionTaskReference" : "CSARATR759064",
+  "customerSegmentAnalysisInstanceAnalysis" : {
+    "customerSegmentAnalysisInstanceAnalysisReport" : {},
+    "customerSegmentAnalysisInstanceAnalysisData" : "customerSegmentAnalysisInstanceAnalysisData",
+    "customerSegmentAnalysisInstanceAnalysisReportType" : "customerSegmentAnalysisInstanceAnalysisReportType"
+  },
+  "customerSegmentAnalysisInstanceReportRecord" : {
+    "customerSegmentAnalysisInstanceReportData" : "customerSegmentAnalysisInstanceReportData",
+    "customerSegmentAnalysisInstanceReport" : {},
+    "customerSegmentAnalysisInstanceReportType" : "customerSegmentAnalysisInstanceReportType"
+  }
+}

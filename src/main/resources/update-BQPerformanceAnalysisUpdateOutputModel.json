@@ -1,0 +1,16 @@
+{
+  "performanceAnalysisUpdateActionTaskReference" : "PAUATR743957",
+  "performanceAnalysisInstanceRecord" : {
+    "customerSegmentPerformanceAnalysisTask" : {
+      "customerSegmentPerformanceWorkProducts" : "customerSegmentPerformanceWorkProducts",
+      "customerSegmentPerformanceRequestSpecification" : "customerSegmentPerformanceRequestSpecification",
+      "customerSegmentPerformanceModelReference" : "779263",
+      "customerSegmentPerformanceProductServiceActivityReport" : {},
+      "customerSegmentPerformanceFinancialMarketResearchReport" : {},
+      "customerSegmentPerformanceRequestResult" : "customerSegmentPerformanceRequestResult"
+    },
+    "customerSegmentPerformanceAnalysisType" : "customerSegmentPerformanceAnalysisType"
+  },
+  "updateResponseRecord" : {},
+  "performanceAnalysisUpdateActionTaskRecord" : {}
+}

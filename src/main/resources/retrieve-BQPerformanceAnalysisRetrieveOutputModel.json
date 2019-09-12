@@ -1,0 +1,28 @@
+{
+  "performanceAnalysisInstanceAnalysis" : {
+    "performanceAnalysisInstanceAnalysisParameters" : "performanceAnalysisInstanceAnalysisParameters",
+    "performanceAnalysisInstanceAnalysisReportType" : "performanceAnalysisInstanceAnalysisReportType",
+    "performanceAnalysisInstanceAnalysisRecord" : {},
+    "performanceAnalysisInstanceAnalysisReport" : {}
+  },
+  "performanceAnalysisRetrieveActionTaskReference" : "PARATR747768",
+  "performanceAnalysisInstanceRecord" : {
+    "customerSegmentPerformanceAnalysisTask" : {
+      "customerSegmentPerformanceWorkProducts" : "customerSegmentPerformanceWorkProducts",
+      "customerSegmentPerformanceRequestSpecification" : "customerSegmentPerformanceRequestSpecification",
+      "customerSegmentPerformanceModelReference" : "765702",
+      "customerSegmentPerformanceProductServiceActivityReport" : {},
+      "customerSegmentPerformanceFinancialMarketResearchReport" : {},
+      "customerSegmentPerformanceRequestResult" : "customerSegmentPerformanceRequestResult"
+    },
+    "customerSegmentPerformanceAnalysisType" : "customerSegmentPerformanceAnalysisType"
+  },
+  "performanceAnalysisRetrieveActionResponse" : "performanceAnalysisRetrieveActionResponse",
+  "performanceAnalysisInstanceReport" : {
+    "performanceAnalysisInstanceReportParameters" : "performanceAnalysisInstanceReportParameters",
+    "performanceAnalysisInstanceReportType" : "performanceAnalysisInstanceReportType",
+    "performanceAnalysisInstanceReportRecord" : {},
+    "performanceAnalysisInstanceReport" : {}
+  },
+  "performanceAnalysisRetrieveActionTaskRecord" : {}
+}

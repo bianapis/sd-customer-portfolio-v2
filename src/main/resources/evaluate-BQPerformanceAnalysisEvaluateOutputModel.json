@@ -1,0 +1,26 @@
+{
+  "performanceAnalysisInitiateActionRecord" : {},
+  "performanceAnalysisInitiateActionReference" : "PAIAR704191",
+  "performanceAnalysisInstanceRecord" : {
+    "customerSegmentPerformanceAnalysisTask" : {
+      "customerSegmentPerformanceWorkProducts" : "customerSegmentPerformanceWorkProducts",
+      "customerSegmentPerformanceRequestSpecification" : "customerSegmentPerformanceRequestSpecification",
+      "customerSegmentPerformanceModelReference" : "727946",
+      "customerSegmentPerformanceProductServiceActivityReport" : {},
+      "customerSegmentPerformanceFinancialMarketResearchReport" : {},
+      "customerSegmentPerformanceRequestResult" : "customerSegmentPerformanceRequestResult"
+    },
+    "customerSegmentPerformanceAnalysisType" : "customerSegmentPerformanceAnalysisType"
+  },
+  "performanceAnalysisInstanceReference" : "PAIR786742",
+  "customerSegmentAnalysisInstanceRecord" : {
+    "customerSegmentAnalysisReport" : {
+      "customerSegmentAnalysisResult" : "customerSegmentAnalysisResult",
+      "customerSegmentAnalysisReportingDate" : "09-22-2018",
+      "customerSegmentAnalysisType" : "customerSegmentAnalysisType",
+      "documentDirectoryEntryInstanceReference" : "799417"
+    },
+    "customerSegmentAnalysisSchedule" : "customerSegmentAnalysisSchedule"
+  },
+  "performanceAnalysisInstanceStatus" : "performanceAnalysisInstanceStatus"
+}

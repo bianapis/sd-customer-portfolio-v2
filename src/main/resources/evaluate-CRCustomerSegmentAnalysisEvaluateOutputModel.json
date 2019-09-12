@@ -1,0 +1,18 @@
+{
+  "customerSegmentAnalysisEvaluateActionReference" : "CSAEAR750153",
+  "customerSegmentAnalysisEvaluateActionRecord" : {},
+  "customerSegmentAnalysisInstanceStatus" : "customerSegmentAnalysisInstanceStatus",
+  "customerSegmentAnalysisInstanceReference" : "CSAIR780166",
+  "customerSegmentAnalysisInstanceRecord" : {
+    "customerSegmentPerformanceGoals" : "customerSegmentPerformanceGoals",
+    "customerSegmentTypeDefinition" : "customerSegmentTypeDefinition",
+    "customerSegmentType" : "customerSegmentType",
+    "customerSegmentAnalysisReport" : {
+      "customerSegmentAnalysisResult" : "customerSegmentAnalysisResult",
+      "customerSegmentAnalysisReportingDate" : "09-22-2018",
+      "customerSegmentAnalysisType" : "customerSegmentAnalysisType",
+      "documentDirectoryEntryInstanceReference" : "780342"
+    },
+    "customerSegmentAnalysisSchedule" : "customerSegmentAnalysisSchedule"
+  }
+}
